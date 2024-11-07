@@ -1,0 +1,56 @@
+{
+     "les_participants_object": [
+          {
+               "nom": "wer",
+               "prenom": "4",
+               "entree": 4,
+               "plat": 0,
+               "dessert": 0,
+               "boisson": 0
+          },
+          {
+               "nom": "etrhwhs",
+               "prenom": "dsgrdhfr",
+               "entree": 0,
+               "plat": 5,
+               "dessert": 0,
+               "boisson": 0
+          },
+          {
+               "nom": "dgsfbfz",
+               "prenom": "dshrhss",
+               "entree": 0,
+               "plat": 0,
+               "dessert": 0,
+               "boisson": 3
+          },
+          {
+               "nom": "dgshfn",
+               "prenom": "fsndg",
+               "entree": 0,
+               "plat": 0,
+               "dessert": 8,
+               "boisson": 0
+          },
+          {
+               "nom": "eogj",
+               "prenom": "odjgsoj",
+               "entree": 4,
+               "plat": 0,
+               "dessert": 0,
+               "boisson": 0
+          }
+     ],
+     "les_participants_str": [
+          "Le participant 4 wer a amen\u00e9 4 entr\u00e9es, ",
+          "Le participant dsgrdhfr etrhwhs a amen\u00e9 5 plats, ",
+          "Le participant dshrhss dgsfbfz a amen\u00e9 3 boissons.",
+          "Le participant fsndg dgshfn a amen\u00e9 8 desserts, ",
+          "Le participant odjgsoj eogj a amen\u00e9 4 entr\u00e9es, "
+     ],
+     "les_entrees": 8,
+     "les_plats": 5,
+     "les_desserts": 8,
+     "les_boissons": 3,
+     "date_evenement": "08/12/2024"
+}
